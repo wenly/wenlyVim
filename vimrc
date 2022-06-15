@@ -13,6 +13,7 @@ set rtp+=~/.vim/bundle/Vundle.vim
 
 call vundle#rc()
 Plugin 'VundleVim/Vundle.vim'
+Plugin 'nanotech/jellybeans.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'nathanaelkane/vim-indent-guides'
 Plugin 'airblade/vim-gitgutter'
